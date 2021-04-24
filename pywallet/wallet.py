@@ -3,7 +3,7 @@
 
 from datetime import datetime
 from .utils import (
-    Wallet, HDPrivateKey, HDKey
+    Wallet, #HDPrivateKey, #HDKey
 )
 from .network import *
 import inspect
